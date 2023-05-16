@@ -1,8 +1,0 @@
-C:\Users\Asus\source\repos\Typecasting and string concart\Typecasting and string concart\bin\Debug\Typecasting and string concart.exe.config
-C:\Users\Asus\source\repos\Typecasting and string concart\Typecasting and string concart\bin\Debug\Typecasting and string concart.exe
-C:\Users\Asus\source\repos\Typecasting and string concart\Typecasting and string concart\bin\Debug\Typecasting and string concart.pdb
-C:\Users\Asus\source\repos\Typecasting and string concart\Typecasting and string concart\obj\Debug\Typecasting and string concart.csproj.AssemblyReference.cache
-C:\Users\Asus\source\repos\Typecasting and string concart\Typecasting and string concart\obj\Debug\Typecasting and string concart.csproj.SuggestedBindingRedirects.cache
-C:\Users\Asus\source\repos\Typecasting and string concart\Typecasting and string concart\obj\Debug\Typecasting and string concart.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\Typecasting and string concart\Typecasting and string concart\obj\Debug\Typecasting and string concart.exe
-C:\Users\Asus\source\repos\Typecasting and string concart\Typecasting and string concart\obj\Debug\Typecasting and string concart.pdb
