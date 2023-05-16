@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\odd even program useing if else\odd even program useing if else\bin\Debug\odd even program useing if else.exe.config
+C:\Users\Asus\source\repos\odd even program useing if else\odd even program useing if else\bin\Debug\odd even program useing if else.exe
+C:\Users\Asus\source\repos\odd even program useing if else\odd even program useing if else\bin\Debug\odd even program useing if else.pdb
+C:\Users\Asus\source\repos\odd even program useing if else\odd even program useing if else\obj\Debug\odd even program useing if else.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\odd even program useing if else\odd even program useing if else\obj\Debug\odd even program useing if else.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\odd even program useing if else\odd even program useing if else\obj\Debug\odd even program useing if else.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\odd even program useing if else\odd even program useing if else\obj\Debug\odd even program useing if else.exe
+C:\Users\Asus\source\repos\odd even program useing if else\odd even program useing if else\obj\Debug\odd even program useing if else.pdb

@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Type Casting and String Conct\Type Casting and String Conct\bin\Debug\Type Casting and String Conct.exe.config
+C:\Users\Asus\source\repos\Type Casting and String Conct\Type Casting and String Conct\bin\Debug\Type Casting and String Conct.exe
+C:\Users\Asus\source\repos\Type Casting and String Conct\Type Casting and String Conct\bin\Debug\Type Casting and String Conct.pdb
+C:\Users\Asus\source\repos\Type Casting and String Conct\Type Casting and String Conct\obj\Debug\Type Casting and String Conct.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Type Casting and String Conct\Type Casting and String Conct\obj\Debug\Type Casting and String Conct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Type Casting and String Conct\Type Casting and String Conct\obj\Debug\Type Casting and String Conct.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Type Casting and String Conct\Type Casting and String Conct\obj\Debug\Type Casting and String Conct.exe
+C:\Users\Asus\source\repos\Type Casting and String Conct\Type Casting and String Conct\obj\Debug\Type Casting and String Conct.pdb

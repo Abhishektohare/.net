@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\loop in C#\loop in C#\bin\Debug\loop in C#.exe.config
+C:\Users\Asus\source\repos\loop in C#\loop in C#\bin\Debug\loop in C#.exe
+C:\Users\Asus\source\repos\loop in C#\loop in C#\bin\Debug\loop in C#.pdb
+C:\Users\Asus\source\repos\loop in C#\loop in C#\obj\Debug\loop in C#.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\loop in C#\loop in C#\obj\Debug\loop in C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\loop in C#\loop in C#\obj\Debug\loop in C#.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\loop in C#\loop in C#\obj\Debug\loop in C#.exe
+C:\Users\Asus\source\repos\loop in C#\loop in C#\obj\Debug\loop in C#.pdb

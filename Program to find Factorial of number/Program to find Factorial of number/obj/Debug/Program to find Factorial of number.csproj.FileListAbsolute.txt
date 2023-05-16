@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Program to find Factorial of number\Program to find Factorial of number\bin\Debug\Program to find Factorial of number.exe.config
+C:\Users\Asus\source\repos\Program to find Factorial of number\Program to find Factorial of number\bin\Debug\Program to find Factorial of number.exe
+C:\Users\Asus\source\repos\Program to find Factorial of number\Program to find Factorial of number\bin\Debug\Program to find Factorial of number.pdb
+C:\Users\Asus\source\repos\Program to find Factorial of number\Program to find Factorial of number\obj\Debug\Program to find Factorial of number.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Program to find Factorial of number\Program to find Factorial of number\obj\Debug\Program to find Factorial of number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Program to find Factorial of number\Program to find Factorial of number\obj\Debug\Program to find Factorial of number.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Program to find Factorial of number\Program to find Factorial of number\obj\Debug\Program to find Factorial of number.exe
+C:\Users\Asus\source\repos\Program to find Factorial of number\Program to find Factorial of number\obj\Debug\Program to find Factorial of number.pdb
