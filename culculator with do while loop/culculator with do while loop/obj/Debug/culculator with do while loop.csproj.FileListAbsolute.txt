@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\culculator with do while loop\culculator with do while loop\bin\Debug\culculator with do while loop.exe.config
+C:\Users\Asus\source\repos\culculator with do while loop\culculator with do while loop\bin\Debug\culculator with do while loop.exe
+C:\Users\Asus\source\repos\culculator with do while loop\culculator with do while loop\bin\Debug\culculator with do while loop.pdb
+C:\Users\Asus\source\repos\culculator with do while loop\culculator with do while loop\obj\Debug\culculator with do while loop.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\culculator with do while loop\culculator with do while loop\obj\Debug\culculator with do while loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\culculator with do while loop\culculator with do while loop\obj\Debug\culculator with do while loop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\culculator with do while loop\culculator with do while loop\obj\Debug\culculator with do while loop.exe
+C:\Users\Asus\source\repos\culculator with do while loop\culculator with do while loop\obj\Debug\culculator with do while loop.pdb

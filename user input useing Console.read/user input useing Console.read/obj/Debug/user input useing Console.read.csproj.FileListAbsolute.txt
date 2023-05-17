@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\user input useing Console.read\user input useing Console.read\bin\Debug\user input useing Console.read.exe.config
+C:\Users\Asus\source\repos\user input useing Console.read\user input useing Console.read\bin\Debug\user input useing Console.read.exe
+C:\Users\Asus\source\repos\user input useing Console.read\user input useing Console.read\bin\Debug\user input useing Console.read.pdb
+C:\Users\Asus\source\repos\user input useing Console.read\user input useing Console.read\obj\Debug\user input useing Console.read.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\user input useing Console.read\user input useing Console.read\obj\Debug\user input useing Console.read.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\user input useing Console.read\user input useing Console.read\obj\Debug\user input useing Console.read.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\user input useing Console.read\user input useing Console.read\obj\Debug\user input useing Console.read.exe
+C:\Users\Asus\source\repos\user input useing Console.read\user input useing Console.read\obj\Debug\user input useing Console.read.pdb
