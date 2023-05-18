@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3790B777-5F49-46A2-8109-8DD883D80E67}</ProjectGuid>
+    <ProjectGuid>{ADE750C8-0D0E-41CE-8BBC-99636F24570E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>culculator_with_do_while_loop</RootNamespace>
-    <AssemblyName>culculator with do while loop</AssemblyName>
+    <RootNamespace>Reversing_an_Array</RootNamespace>
+    <AssemblyName>Reversing an Array</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="do while loop.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

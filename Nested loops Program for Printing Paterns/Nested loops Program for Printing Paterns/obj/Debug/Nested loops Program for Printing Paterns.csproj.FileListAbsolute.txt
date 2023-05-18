@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Nested loops Program for Printing Paterns\Nested loops Program for Printing Paterns\bin\Debug\Nested loops Program for Printing Paterns.exe.config
+C:\Users\Asus\source\repos\Nested loops Program for Printing Paterns\Nested loops Program for Printing Paterns\bin\Debug\Nested loops Program for Printing Paterns.exe
+C:\Users\Asus\source\repos\Nested loops Program for Printing Paterns\Nested loops Program for Printing Paterns\bin\Debug\Nested loops Program for Printing Paterns.pdb
+C:\Users\Asus\source\repos\Nested loops Program for Printing Paterns\Nested loops Program for Printing Paterns\obj\Debug\Nested loops Program for Printing Paterns.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Nested loops Program for Printing Paterns\Nested loops Program for Printing Paterns\obj\Debug\Nested loops Program for Printing Paterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Nested loops Program for Printing Paterns\Nested loops Program for Printing Paterns\obj\Debug\Nested loops Program for Printing Paterns.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Nested loops Program for Printing Paterns\Nested loops Program for Printing Paterns\obj\Debug\Nested loops Program for Printing Paterns.exe
+C:\Users\Asus\source\repos\Nested loops Program for Printing Paterns\Nested loops Program for Printing Paterns\obj\Debug\Nested loops Program for Printing Paterns.pdb

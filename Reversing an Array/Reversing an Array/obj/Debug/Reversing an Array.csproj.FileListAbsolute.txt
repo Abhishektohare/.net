@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Reversing an Array\Reversing an Array\bin\Debug\Reversing an Array.exe.config
+C:\Users\Asus\source\repos\Reversing an Array\Reversing an Array\bin\Debug\Reversing an Array.exe
+C:\Users\Asus\source\repos\Reversing an Array\Reversing an Array\bin\Debug\Reversing an Array.pdb
+C:\Users\Asus\source\repos\Reversing an Array\Reversing an Array\obj\Debug\Reversing an Array.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Reversing an Array\Reversing an Array\obj\Debug\Reversing an Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Reversing an Array\Reversing an Array\obj\Debug\Reversing an Array.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Reversing an Array\Reversing an Array\obj\Debug\Reversing an Array.exe
+C:\Users\Asus\source\repos\Reversing an Array\Reversing an Array\obj\Debug\Reversing an Array.pdb

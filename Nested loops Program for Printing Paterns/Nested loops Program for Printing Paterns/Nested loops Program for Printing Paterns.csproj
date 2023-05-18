@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3790B777-5F49-46A2-8109-8DD883D80E67}</ProjectGuid>
+    <ProjectGuid>{9272E8F7-A6F8-4266-82B4-B6CDABCA246D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>culculator_with_do_while_loop</RootNamespace>
-    <AssemblyName>culculator with do while loop</AssemblyName>
+    <RootNamespace>Nested_loops_Program_for_Printing_Paterns</RootNamespace>
+    <AssemblyName>Nested loops Program for Printing Paterns</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="do while loop.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

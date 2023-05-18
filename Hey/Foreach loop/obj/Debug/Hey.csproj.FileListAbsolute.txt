@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Hey\Hey\bin\Debug\Hey.exe.config
+C:\Users\Asus\source\repos\Hey\Hey\bin\Debug\Hey.exe
+C:\Users\Asus\source\repos\Hey\Hey\bin\Debug\Hey.pdb
+C:\Users\Asus\source\repos\Hey\Hey\obj\Debug\Hey.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Hey\Hey\obj\Debug\Hey.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Hey\Hey\obj\Debug\Hey.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Hey\Hey\obj\Debug\Hey.exe
+C:\Users\Asus\source\repos\Hey\Hey\obj\Debug\Hey.pdb

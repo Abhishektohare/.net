@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3790B777-5F49-46A2-8109-8DD883D80E67}</ProjectGuid>
+    <ProjectGuid>{E1F91E8F-E9C3-4F73-AF45-425DF545BA74}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>culculator_with_do_while_loop</RootNamespace>
-    <AssemblyName>culculator with do while loop</AssemblyName>
+    <RootNamespace>Hey</RootNamespace>
+    <AssemblyName>Hey</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="do while loop.cs" />
+    <Compile Include="operations on Array Useing .length ,and Foreach loop.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

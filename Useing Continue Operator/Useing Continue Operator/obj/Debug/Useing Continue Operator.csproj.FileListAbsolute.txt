@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Useing Continue Operator\Useing Continue Operator\bin\Debug\Useing Continue Operator.exe.config
+C:\Users\Asus\source\repos\Useing Continue Operator\Useing Continue Operator\bin\Debug\Useing Continue Operator.exe
+C:\Users\Asus\source\repos\Useing Continue Operator\Useing Continue Operator\bin\Debug\Useing Continue Operator.pdb
+C:\Users\Asus\source\repos\Useing Continue Operator\Useing Continue Operator\obj\Debug\Useing Continue Operator.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Useing Continue Operator\Useing Continue Operator\obj\Debug\Useing Continue Operator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Useing Continue Operator\Useing Continue Operator\obj\Debug\Useing Continue Operator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Useing Continue Operator\Useing Continue Operator\obj\Debug\Useing Continue Operator.exe
+C:\Users\Asus\source\repos\Useing Continue Operator\Useing Continue Operator\obj\Debug\Useing Continue Operator.pdb
