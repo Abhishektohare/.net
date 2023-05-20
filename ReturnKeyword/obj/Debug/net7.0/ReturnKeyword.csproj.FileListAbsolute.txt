@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\ReturnKeyword\bin\Debug\net7.0\ReturnKeyword.exe
+C:\Users\Asus\source\repos\ReturnKeyword\bin\Debug\net7.0\ReturnKeyword.deps.json
+C:\Users\Asus\source\repos\ReturnKeyword\bin\Debug\net7.0\ReturnKeyword.runtimeconfig.json
+C:\Users\Asus\source\repos\ReturnKeyword\bin\Debug\net7.0\ReturnKeyword.dll
+C:\Users\Asus\source\repos\ReturnKeyword\bin\Debug\net7.0\ReturnKeyword.pdb
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ReturnKeyword.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ReturnKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ReturnKeyword.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ReturnKeyword.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ReturnKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ReturnKeyword.dll
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\refint\ReturnKeyword.dll
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ReturnKeyword.pdb
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ReturnKeyword.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ReturnKeyword\obj\Debug\net7.0\ref\ReturnKeyword.dll
